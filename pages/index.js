@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Só tem a honra de errar, quem teve a coragem de tentar!</h1>;
+  return <p>Só quem tem coragem de arriscar, vive o extraordinário.</p>;
 }
 
 export default Home;
